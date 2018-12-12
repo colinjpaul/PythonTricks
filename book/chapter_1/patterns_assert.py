@@ -21,4 +21,4 @@ def delete_product(product_id, user):
     store.get_product(product_id).delete()
 
 
-#continue from 2.2
+#continue from 2.3
