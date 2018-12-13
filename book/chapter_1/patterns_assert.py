@@ -20,5 +20,3 @@ def delete_product(product_id, user):
         raise ValueError('Unknown product id')
     store.get_product(product_id).delete()
 
-
-#continue from 2.3
