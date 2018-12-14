@@ -10,4 +10,4 @@ class ManagedFile:
         if self.file:
             self.file.close()
 
-#continue from contextlib.contextmanger (pg. 32)
+#review 2.3.1
